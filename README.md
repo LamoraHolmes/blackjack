@@ -1,4 +1,5 @@
 # Personal Blackjack Project
+Creating a Blackjack game which can be played on the console
 
 A created this project in order to start learning Python and begin with the basics, like variables handling, conditional statements, loops and working with lists. 
 
