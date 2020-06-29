@@ -1,5 +1,6 @@
 # Personal Blackjack Project
 
+![Blackjack](./terraform_pipeline.png)
 A created this project in order to start learning Python and begin with the basics, like variables handling, conditional statements, loops and working with lists. 
 
 The basic functionality of a Blackjack game is included but things like splitting are not.
